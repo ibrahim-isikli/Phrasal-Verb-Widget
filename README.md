@@ -12,6 +12,16 @@ pythonw phrasal_widget.py
 
 Requires Python 3.12+. No pip packages needed (uses stdlib `tkinter` only).
 
+
+<img width="268" height="82" alt="image" src="https://github.com/user-attachments/assets/06afde8a-6994-4547-8e10-9a67606ff6de" />
+
+
+<img width="274" height="84" alt="image" src="https://github.com/user-attachments/assets/07372513-bd0a-4c44-ba57-c323bf77a33d" />
+
+
+<img width="269" height="85" alt="image" src="https://github.com/user-attachments/assets/495374db-f9f6-4ef1-9a78-50464b54c8d3" />
+
+
 ## Controls
 
 | Action | How |
@@ -42,3 +52,9 @@ Edit `~/.phrasal_widget/config.json` and set `"interval_seconds"` to whatever yo
    pythonw.exe "C:\full\path\to\phrasal_widget.py"
    ```
 3. Save. The widget will launch every time you log in.
+<img width="551" height="600" alt="image" src="https://github.com/user-attachments/assets/0f8be085-0ceb-414d-ba20-c60e0504bd23" />
+
+## Example View
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dd7c1bb7-1cda-4377-b835-ea2235cf4293" />
+
+
